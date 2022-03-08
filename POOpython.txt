@@ -1,0 +1,83 @@
+Programación orientada a objetos en py
+
+datos abstractos
+
+decomposición en componentes
+abstracción solo pedir dato sin saber su origen
+encapsulación esconder datos
+
+creación
+manipulación
+destrucción
+
+class <nombre_de_la_clase>(<super_clase>):
+
+constructor def __init__ (self, <params>):
+		<expresion>
+	#metodos, palabra self  como inciador
+	def <nombre_metodo>(self, <params>):
+		<expresion>
+
+
+keyword self-this en java
+
+clase tipo de molde
+
+define caractersticas de la clase
+
+y se usan por las instancias
+
+instancias -> objetos
+
+pueden tener distintos atributos, pero 
+el molde es el mismo clase
+
+constructor doble under __
+la clase es la forma en que se contruyen
+las instancias
+
+atributos de clase, nos permiten 
+representar datos, 
+
+variables privadas, no exite en python
+
+convención en python, se inician con_
+
+guión bajo
+
+self referencia a la instancia
+
+decomposición
+
+paratir un problema en mas pequeños
+
+clases permiten crear componentes más pequeños
+cada clase se encarga de una parte de un problema
+
+el software se vuelve más facil de mantener
+
+
+abstracción
+
+enfocarnos en la información relevante
+separar la información central de los 
+detalles secundarios
+
+se pueden usar variables y metodos 
+
+privados y publicos
+
+manejar, no nos enfocamos en como 
+funciona el auto
+
+no es necesario saber a detalle todas las
+librerias
+
+saber como interactuamos con servidores
+algoritmos
+procesamiento de datos
+
+
+
+
+
